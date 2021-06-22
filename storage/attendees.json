@@ -1,0 +1,18 @@
+[
+  {
+    "tag": "@john.doe",
+    "team": "#team-1"
+  },
+  {
+    "tag": "@jane.doe",
+    "team": "#team-2"
+  },
+  {
+    "tag": "@foo.bar",
+    "team": "#team-2"
+  },
+  {
+    "tag": "@mr.x",
+    "team": "#team-3"
+  }
+]
